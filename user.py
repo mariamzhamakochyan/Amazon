@@ -1,3 +1,4 @@
+global role 
 class User:
     def __init__(self, role, username, mail):
         self.role = role
